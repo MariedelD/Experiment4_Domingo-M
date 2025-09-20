@@ -5,8 +5,7 @@
 
 ## I. Intended Learning Outcomes
 
-#### 1. To identify the codes and functions needed in cleaning and visualizing data
-#### 2. To be able to apply and use the different codes and functions in creating a Python program that will be used in data wrangling and data visualization
+#### The intended learning outcome is to recognize and apply Python codes and functions for data cleaning, wrangling, and visualization effectively.
 
 ---
 
@@ -64,6 +63,7 @@ board
   
 #### OUTPUT:
 
+<img width="614" height="628" alt="image" src="https://github.com/user-attachments/assets/c23210d4-295c-405f-bc83-1c6ce3705731" />
 
 ---
 
@@ -77,6 +77,7 @@ Instru
 
 #### OUTPUT:
 
+<img width="221" height="122" alt="image" src="https://github.com/user-attachments/assets/5836bfe1-07e3-4e79-b645-58651569bd6d" />
 
 ---
 
@@ -96,6 +97,7 @@ Mindy
 * Similar to the previous code, by using the **_board.loc function_** will serve as your search tool, showing only the rows and columns you specify.
   
 #### OUTPUT:
+<img width="339" height="193" alt="image" src="https://github.com/user-attachments/assets/4d12dbb3-fb33-4af6-8fe1-e5fd8ae0a251" />
 
 ---
 
@@ -126,6 +128,8 @@ plt.bar(board['x-axis'],board['y-axis'])
 ```
  
 #### OUTPUT:
+<img width="824" height="364" alt="image" src="https://github.com/user-attachments/assets/05e2c119-3b5d-4999-87c6-cade40803e5f" />
+
 
 #### $\color{Apricot}{The\ bar\ graph\ indicates\ that\ Microelectronics\ has\ the\ highest\ average\ grade,\ whereas\ Instrumentation\ has\ the\ lowest. :}$ 
 
@@ -138,6 +142,8 @@ plt.bar(board['Gender'],board['Average'])
 ```
 
 #### OUTPUT:
+<img width="839" height="345" alt="image" src="https://github.com/user-attachments/assets/db789716-8f79-4bce-83a8-d7fc664b925a" />
+
 
 #### $\color{Apricot}{The\ bar\ graph\ below\ shows\ that\ females\ have\ the\ highest\ average\ grade,\ while\ males\ have\ the\ lowest. :}$ 
 
@@ -148,6 +154,7 @@ plt.bar(board['Hometown'],board['Average'])
 ```
 
 #### OUTPUT:
+<img width="847" height="357" alt="image" src="https://github.com/user-attachments/assets/84ac8a29-d1fb-4d08-baf2-dd4c29533d5c" />
 
 #### $\color{Apricot}{The\ bar\ graph\ below\ demonstrates\ that\ Luzon\ has\ the\ highest\ average\ grade,\ whereas\ the\ Mindanao\ region\ has\ the\ lowest. :}$ 
 
