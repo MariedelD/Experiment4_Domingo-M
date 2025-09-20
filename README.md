@@ -145,7 +145,7 @@ plt.bar(board['Gender'],board['Average'])
 <img width="839" height="345" alt="image" src="https://github.com/user-attachments/assets/db789716-8f79-4bce-83a8-d7fc664b925a" />
 
 
-#### $\color{Apricot}{The\ bar\ graph\ below\ shows\ that\ females\ have\ the\ highest\ average\ grade,\ while\ males\ have\ the\ lowest. :}$ 
+#### $\color{Apricot}{The\ bar\ graph\ above\ shows\ that\ females\ have\ the\ highest\ average\ grade,\ while\ males\ have\ the\ lowest. :}$ 
 
 
 * Finally, the comparison will be made to determine which hometown has the highest and lowest average grade, utilizing the sam **_plt.bar() function_**
@@ -156,6 +156,6 @@ plt.bar(board['Hometown'],board['Average'])
 #### OUTPUT:
 <img width="847" height="357" alt="image" src="https://github.com/user-attachments/assets/84ac8a29-d1fb-4d08-baf2-dd4c29533d5c" />
 
-#### $\color{Apricot}{The\ bar\ graph\ below\ demonstrates\ that\ Luzon\ has\ the\ highest\ average\ grade,\ whereas\ the\ Mindanao\ region\ has\ the\ lowest. :}$ 
+#### $\color{Apricot}{The\ bar\ graph\ above\ demonstrates\ that\ Luzon\ has\ the\ highest\ average\ grade,\ whereas\ the\ Mindanao\ region\ has\ the\ lowest. :}$ 
 
 ---
