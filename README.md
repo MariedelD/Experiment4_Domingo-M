@@ -5,7 +5,7 @@
 
 ## I. Intended Learning Outcomes
 
-#### The intended learning outcome is to recognize and apply Python codes and functions for data cleaning, wrangling, and visualization effectively.
+-  The intended learning outcome is to identify and apply Python codes and functions for data cleaning, wrangling, and visualization effectively.
 
 ---
 
